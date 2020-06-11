@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+sklearn
+seaborn
+Unidecode
+scikit-learn==0.19.2
+matplotlib
+scipy
